@@ -1,4 +1,4 @@
 # vihar.github.io
 Code for my website
 
-<a href="https://vihar.github.io/">My Website</a>
+<a href="https://aashrith-sai.github.io/">My Website</a>
